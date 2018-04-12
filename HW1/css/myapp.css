@@ -1,0 +1,197 @@
+/************
+   Kevin Duong 
+   keduong@ucsc.edu
+   CMPS 183 - HW1
+   Super general css file for HW1
+************/
+
+div.header-wrapper{
+   background-color: #28558e;
+   color:#f1b521;
+}
+
+div.title{
+   text-align:right; 
+   padding-top: 80px;
+   font-size: 20px;
+}
+div.header-logo{
+   padding: 15px;
+}
+
+img.ucsc-logo{
+   width: 60%;
+   padding-top: 15px;
+   padding-left: 15px;
+}
+div.date{
+   text-align: right;
+   font-size: 15px;
+   padding-bottom: 10px;
+}
+
+div.featured-piece{
+   background-color:#f8f8f8;
+}
+
+img.featured-image{
+   padding-bottom: 5px;
+}
+
+div.featured-image-title{
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-bottom: 5px;
+   color: #00467F;
+   font-size: 25px;
+}
+
+div.featured-image-text{
+   padding-left: 10px;
+   padding-right: 5px;
+   font-size: 18px;
+}
+
+div.news-pieces{
+   background-color:#f8f8f8;
+}
+
+div.middle-label{
+   padding-top: 20px;
+   padding-left: 20px;
+   font-size: 30px;
+   text-align:left;
+   color: #f1b521;
+   p.solid {border-style: solid};
+}
+
+img.first-story-image{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 90%;
+}
+
+div.first-story-title{
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size: 20px;
+}
+
+div.first-story-text{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   font-size: 15px;
+}
+
+img.second-story-image{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 90%;
+}
+
+div.second-story-title{
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-left: 20px;
+   font-size: 20px;
+}
+
+div.second-story-text{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 30px;
+   font-size: 15px;
+}
+
+img.first-alum-image{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 90%;
+} 
+div.first-alum-title{
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size: 20px;
+}
+
+div.first-alum-text{
+   padding-left: 20px;
+   padding-right: 25px;
+   padding-bottom: 20px;
+   font-size: 15px;
+}
+
+img.second-alum-image{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 90%;
+}    
+div.second-alum-title{
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size: 20px;
+}
+
+div.second-alum-text{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 47px;
+   font-size: 15px;
+}
+
+div.featured-alumni{
+   background-color:#f8f8f8;
+}
+
+div.events{
+   background-color:#f8f8f8;
+}
+
+img.event-image{
+   margin-left:auto;
+   margin-right:auto;
+   padding-top: 5px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-bottom: 20px;
+   width: 50%;
+}
+
+div.event-title{
+   padding-top:15px;
+   font-size: 20px;
+}
+
+div.event-text{
+   font-size: 15px;
+}
+
+div.footer{
+   background-color: #28558e;
+}
+
+div.author-info{
+   padding-top:10px;
+   font-size: 10px;
+   color: black;
+}
+
+div.social-media{
+   text-align:center;
+   color:white;
+}
+
+img.twit-icon{
+   padding-top:5px;
+}
+img.facebook-icon{
+   padding-top:5px;
+}
